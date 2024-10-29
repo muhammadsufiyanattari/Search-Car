@@ -1,0 +1,153 @@
+@font-face {
+    font-family: myFont;
+    src: url(Poppins/Poppins-Italic.ttf);
+}
+
+
+body{
+
+    background: rgb(138,130,131);
+background: radial-gradient(circle, rgba(138,130,131,1) 19%, rgba(21,22,23,1) 49%);
+
+}
+.imgNav{
+    text-align: center;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(148, 146, 146);
+font-style: italic;
+
+}
+#cardRol{
+    margin: 30px 0px !important;
+    /* margin-bottom: 20px !important; */
+
+
+    border-radius: 35px;
+    /* box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px; */
+}
+
+
+.car-logo{
+    margin-left: 20px;
+    cursor: none;
+}
+.car-logo-a:hover{
+cursor: none;
+color: rgb(148, 146, 146);
+
+}
+
+
+#carImgs{
+    width: 100%;
+}
+/* card */
+.home-card{
+    width: 100% !important;
+    height: 100% !important;
+    top: 1518px;
+    left: 30px;
+    border-radius: 14px;
+    /* background-color: gray; */
+    opacity: 0.45px;
+    border-radius: 35px;
+    margin: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+    
+   }
+   .home-card:hover{
+    /* border: 1px solid gray; */
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    padding: 5px;
+
+   }
+   .cardcol{
+    margin: 10px 0px;
+   }
+   
+
+   
+   .home-card>.home-card-img1{
+    width: 100% !important;
+height: 150px;
+top: 1518px;
+left: 30px;
+border-radius: 14px;
+
+   }
+   .card-body{
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+   }
+   .card-body h4{
+    color: rgb(184, 180, 180);
+    font-weight: bold;
+font-size: 25px;
+   }
+   .card-body h5{
+    color: white;
+   }
+   .card-body p{
+    color: rgb(193, 185, 185);
+    font-weight: 900 !important;
+    font-size: 18px;
+        
+ 
+   }
+   .card-body h3{
+    color:rgb(122, 159, 37);
+    font-weight: bold;
+    cursor: none;
+   }
+
+
+   .card-title{
+    font-family: 'myFont';
+   }
+   /* complete home card  */
+
+
+
+
+
+.mynBtn{
+    /* background-color: gray; */
+    color: white;
+    font-weight: bold;
+    border: 1px solid gray;
+    font-size: 20px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.mynBtn:hover{
+    background-color: black;
+    border-color: gray;
+}
+.mynBtn:active{
+    background-color: black !important;
+    border-color: gray;
+}
+.mySelect{
+    color: white;
+
+    font-weight: bold !important;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+}
+.mySelect:hover{
+    background-color: black;
+    border-color: gray;
+}.mySelect:active{
+    box-shadow: 1px 1px 0px gainsboro !important;
+}
+.mySelect:focus{
+    box-shadow: 1px 1px 0px gainsboro !important;
+}
+.gif{
+    margin-top: 100px !important;
+}
